@@ -1,3 +1,3 @@
 ***Welcome to the sandbox wiki!***
 
-A paragraph is added from a contributor
+A fix made by an awesome contributor
