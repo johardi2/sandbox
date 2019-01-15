@@ -2,7 +2,7 @@
 
 **[Home](Home)**
 
-**[Background](../Background/Background)**
+**[Background](Background)**
 
 A fix made by an awesome contributor
 
