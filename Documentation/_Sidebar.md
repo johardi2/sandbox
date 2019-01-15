@@ -1,1 +1,1 @@
-***A sidebar made by johardi2***
+***A typo fix made by johardi2***
